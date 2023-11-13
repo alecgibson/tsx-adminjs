@@ -1,0 +1,11 @@
+{
+  "include": [
+    "src/**/*",
+  ],
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "outDir": "build",
+    "baseUrl": ".",
+  }
+}
